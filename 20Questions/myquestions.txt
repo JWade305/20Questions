@@ -1,0 +1,26 @@
+Q:
+is it alive?
+Q:
+is it a plant?
+A:
+tree
+Q:
+is it a small animal?
+A:
+rat
+A:
+elephant
+Q:
+can it be found in a house?
+A:
+fridge
+Q:
+does it have wheels?
+A:
+car
+Q:
+is it a part of nature?
+A:
+rock
+A:
+fire hydrant
